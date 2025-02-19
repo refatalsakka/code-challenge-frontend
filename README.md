@@ -7,7 +7,6 @@ npm install
 ```
 
 ```bash
-npm install
 ng serve
 ```
 
